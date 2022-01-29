@@ -1,0 +1,44 @@
+D:\gurski\gurski11\gurski11\bin\Debug\net5.0-windows\gurski11.exe
+D:\gurski\gurski11\gurski11\bin\Debug\net5.0-windows\gurski11.deps.json
+D:\gurski\gurski11\gurski11\bin\Debug\net5.0-windows\gurski11.runtimeconfig.json
+D:\gurski\gurski11\gurski11\bin\Debug\net5.0-windows\gurski11.runtimeconfig.dev.json
+D:\gurski\gurski11\gurski11\bin\Debug\net5.0-windows\gurski11.dll
+D:\gurski\gurski11\gurski11\bin\Debug\net5.0-windows\ref\gurski11.dll
+D:\gurski\gurski11\gurski11\bin\Debug\net5.0-windows\gurski11.pdb
+D:\gurski\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.csproj.AssemblyReference.cache
+D:\gurski\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.Form1.resources
+D:\gurski\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.Form3.resources
+D:\gurski\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.csproj.GenerateResource.cache
+D:\gurski\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.GeneratedMSBuildEditorConfig.editorconfig
+D:\gurski\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.AssemblyInfoInputs.cache
+D:\gurski\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.AssemblyInfo.cs
+D:\gurski\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.csproj.CoreCompileInputs.cache
+D:\gurski\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.dll
+D:\gurski\gurski11\gurski11\obj\Debug\net5.0-windows\ref\gurski11.dll
+D:\gurski\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.pdb
+D:\gurski\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.genruntimeconfig.cache
+D:\gurski\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.Properties.Resources.resources
+D:\gurski\gurski11\gurski11\obj\Debug\net5.0-windows\gurski3n.Form2.resources
+D:\gurski\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.Form22.resources
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\bin\Debug\net5.0-windows\gurski11.exe
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\bin\Debug\net5.0-windows\gurski11.deps.json
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\bin\Debug\net5.0-windows\gurski11.runtimeconfig.json
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\bin\Debug\net5.0-windows\gurski11.runtimeconfig.dev.json
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\bin\Debug\net5.0-windows\gurski11.dll
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\bin\Debug\net5.0-windows\ref\gurski11.dll
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\bin\Debug\net5.0-windows\gurski11.pdb
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.csprojAssemblyReference.cache
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.Form1.resources
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\obj\Debug\net5.0-windows\gurski3n.Form2.resources
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.Form22.resources
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.Form3.resources
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.Properties.Resources.resources
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.csproj.GenerateResource.cache
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.AssemblyInfoInputs.cache
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.AssemblyInfo.cs
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.csproj.CoreCompileInputs.cache
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.dll
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\obj\Debug\net5.0-windows\ref\gurski11.dll
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.pdb
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\gurski11\gurski11\obj\Debug\net5.0-windows\gurski11.genruntimeconfig.cache
